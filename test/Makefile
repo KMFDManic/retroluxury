@@ -1,5 +1,5 @@
 SOEXT=.so
-TARGET=test_retroluxury$(SOEXT)
+TARGET=testretroluxury_libretro$(SOEXT)
 OBJEXT=.o
 CC=gcc
 CXX=g++
